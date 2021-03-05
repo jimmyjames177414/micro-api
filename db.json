@@ -1,14 +1,92 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "firstname": [
+        "James"
+    ],
+    "lastname": [
+        "Miller"
+    ],
+    "nickname": [
+        ""
+    ],
+    "preferredname": [
+        "Miller, James"
+    ],
+    "enterpriseid": [
+        "james.a.miller"
+    ],
+    "peoplekey": [
+        "1654117"
+    ],
+    "orglevel2desc": [
+        "North America Market                    "
+    ],
+    "orglevel3desc": [
+        "Market Wide - NA                        "
+    ],
+    "orglevel4desc": [
+        "Technology                              "
+    ],
+    "orglevel5desc": [
+        "Cloud First"
+    ],
+    "orglevel6desc": [
+        "Cloud-Infrastructure-Engineering"
+    ],
+    "orglevel7desc": [
+        "Software Engineering                    "
+    ],
+    "standardjobdescr": [
+        "Application Development Specialist"
+    ],
+    "professionalbio": [
+        "<p>I am a very passionate Application Development Senior Analyst here at Accenture. I spent three years at a software consulting company as a Software Developer prior to transferring to Accenture in 2018. While consulting, I worked professionally with a very wide variety of coding languages and have learned to adapt at the flip of a switch. Prior to consulting, I was the Lead Full-stack .NET Developer on a project under grants from Homeland Security called the Disaster Management Communication System. Creating something that would help first responders in the filed is something I'm really proud of.&nbsp;</p>\n<p><br></p>\n<p>While at Accenture, I have developed numerous technologies that your self might have used!&nbsp;</p>\n<p>These include, but are not limited to, the following:</p>\n<p><br></p>\n<ul>\n  <li><strong>KX Document's PPT Slide Sorter Search:</strong> KX Document Search Widget's ability to search through the pages of a PPT document so you don't have to! <a href=\"https://kxdocuments.accenture.com/?k=artificial%20intelligence&amp;page=1&amp;0248=Yes\">LINK</a></li>\n  <li><strong>Ask @Accenture Chatbot On Portal:</strong> Originally called Omnibot, It will answer any of your Accenture related needs. It truly lives up to its original name! <a href=\"https://portal.accenture.com/#/askaccenture\">LINK</a></li>\n</ul>\n<p><br></p>\n<p>My favorite quote:</p>\n<p>“Knowledge is knowing that a tomato is a fruit; wisdom is not putting it in a fruit salad.” ? Miles Kington</p>\n<p><br></p>"
+    ],
+    "homecity": [
+        "Chicago"
+    ],
+    "countryhome": [
+        "USA"
+    ],
+    "displayname": [
+        "James Miller"
+    ],
+    "workemail": [
+        "james.a.miller@accenture.com"
+    ],
+    "mycv-skillsonly": [
+        "JQuery",
+        "Advanced Front End Development",
+        "WordPress",
+        "Cascading Style Sheets (CSS)",
+        "HTML5",
+        "HTML (Hypertext Markup Language)",
+        "JavaScript",
+        "DevOps",
+        "Microsoft Front End Development",
+        "ASP.NET MVC",
+        "ASP.NET",
+        "AngularJS",
+        "C# Programming Language",
+        "AngularJS 4.x",
+        ".NET Programming Language",
+        "Microsoft Visual Studio Team Foundation Server",
+        "Agile Team Practices",
+        "Advance Front End Development AngularJS",
+        "Angular",
+        "Customer Service Management"
+    ],
+    "facilitydescr": [
+        "Chicago Corp 161 Clark St"
+    ],
+    "isAvanade": false,
+    "isContractor": false,
+    "employeeclasstype": [
+        "0"
+    ],
+    "iscustommobiledisplayed": [
+        "True"
+    ],
+    "hasOrgLink": "1",
+    "hasOrgLinkOtherUser": "1",
+    "enablePronoun": 1
 }
